@@ -1,2 +1,6 @@
-# COVID-19_Prediction
-COVID-19 Prediction from Patient's Chest X-ray Using Deep Learning and Deply custom  Deep Learning into Azure ML
+# COVID-19 Prediction
+
+### Abstract : 
+Diagnose the COVID-19 from patients chest X-ray image using Convolution Neural Networks (CNN) Deep Learning model and Azure ML.
+
+
