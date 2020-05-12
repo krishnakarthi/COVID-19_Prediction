@@ -90,3 +90,8 @@ https://docs.microsoft.com/en-us/azure/azure-functions/functions-develop-vs
 
 https://keras.io/applications/
 
+
+
+### Author:
+*Karthikeyan Krishnasamy*
+https://www.linkedin.com/in/karthikeyankrishnasamy/ 
