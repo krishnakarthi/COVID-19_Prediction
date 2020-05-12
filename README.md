@@ -65,7 +65,7 @@ https://github.com/krishnakarthi/COVID-19_Prediction/blob/master/DeployTrainedMo
  - Tensorflow == 2.2.0
  - Keras == 2.3.1
  - Python == 3.7.3
- - Azure ML SDK Version:  1.4.0
+ - Azure ML SDK Version == 1.4.0
  
 
 ### Reference:
