@@ -29,14 +29,14 @@ For NORMAL patient’s chest X-rays dataset has been collected from Kaggle. It h
 ### Deep Transfer Learning Model:
 
 This collected dataset has been re-trained with below given image recognition models using Deep Transfer Learning technique.
-From model training we able to see Xception and InceptionV3 model giving promising result for this dataset.
+From model evaluation we are able to see Xception and InceptionV3 model giving promising result for this dataset.
 
 1. Xception     : https://arxiv.org/abs/1610.02357
 2. InceptionV3  : https://arxiv.org/abs/1512.03385
 3. DenseNet201  : https://arxiv.org/abs/1608.06993
 4. ResNet50     : https://arxiv.org/abs/1512.03385
 
-**Find each model performance with test data from this dataset :**
+**Find models evaluation with test data  :**
 
 ![Alt text](https://github.com/krishnakarthi/COVID-19_Prediction/blob/master/Image/Final_Result.JPG?raw=true "Title")
 
