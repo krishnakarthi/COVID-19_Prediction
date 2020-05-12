@@ -26,9 +26,17 @@ For NORMAL patient’s chest X-rays dataset has been collected from Kaggle. It h
 
 ![Alt text](https://github.com/krishnakarthi/COVID-19_Prediction/blob/master/Image/Data_Split.JPG?raw=true "Title")
 
+### Image Data Pre-Processing :
+
+For image data pre-processing we  have done below given steps in train,validation and test dataset. 
+
+ - We have used Open CV package to resize image data to 150x150.
+ - Normalize the image data to "0 to 1" from "0 to 255".
+ - Since it's a medical imaging dataset we are not done any image augumentation.
+
 ### Deep Transfer Learning Model:
 
-This collected dataset has been re-trained with below given image recognition models using Deep Transfer Learning technique.
+After pre-processed data are re-trained with below given image recognition models using Deep Transfer Learning technique.
 From model evaluation we are able to see Xception and InceptionV3 model giving promising result for this dataset.
 
 1. Xception     : https://arxiv.org/abs/1610.02357
