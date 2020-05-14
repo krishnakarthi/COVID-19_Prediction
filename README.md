@@ -32,7 +32,7 @@ For image data pre-processing we  have done below given steps in train,validatio
 
  - We have used Open CV package to resize image data to 150x150.
  - Normalize the image data to "0 to 1" from "0 to 255".
- - Since it's a medical imaging dataset we are not done any image augumentation.
+ 
 
 ### Deep Transfer Learning Model:
 
